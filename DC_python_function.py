@@ -1,3 +1,5 @@
+# two type of scope global and local
+# python function creates but loops and if statement don't 
 #1 Define the function shout
 def shout():
     """Print a string with three exclamation marks"""
